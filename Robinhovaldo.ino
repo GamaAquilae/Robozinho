@@ -15,8 +15,8 @@ const char* myWriteAPIKey = "MQ9GD7Y95M2XHOFH";
 
 //variaveis :)
 int distance = 0;
-char ssid[] = "FIBRATECH";  
-char pass[] = "fibra100";   
+char ssid[] = "nomedowifi";  
+char pass[] = "senhadowifi";   
 unsigned long myChannelNumber = 2142559;
 
 //classes :)
